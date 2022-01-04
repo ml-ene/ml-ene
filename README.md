@@ -2,7 +2,8 @@
 # ML-ene
 
 The ML-ene package allows the magnetic moment profile of an arbitrary graphene geometry to be generated using the machine-learning model described in *Kucukbas, McCann and Power (2022)*.
-The full version of this code, including a python module and additional examples, will be uploaded shortly.
+
+The full version of this code, including the mlene.py module required below and additional examples, will be uploaded shortly.
 
 
 ## Predict moments for a previously unseen system
